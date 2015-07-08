@@ -1,0 +1,9 @@
+{
+  "name": "TradeEngine",
+  "version": "0.0.1",
+  "dependencies": {
+    "array-extended": "~0.0.11",
+    "restler": "~3.3.0",
+    "async": "~1.3.0"
+  }
+}
